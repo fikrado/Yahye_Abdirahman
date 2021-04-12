@@ -3,7 +3,7 @@
 
 # [+]INSTALL
 
-,,, 
+```
 apt update && apt upgrade -y
 bash yahye.sh
-,,,
+```
