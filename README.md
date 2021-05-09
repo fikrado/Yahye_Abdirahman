@@ -4,14 +4,16 @@
   <img src="https://img.shields.io/github/stars/fikrado/Yahye_Abdirahman?style=for-the-badge" alt="GitHub Stars">
   <img src="https://img.shields.io/github/downloads/fikrado/Yahye_Abdirahman/total?style=for-the-badge" alt="GitHub All Releases">
   <img src="https://img.shields.io/github/license/fikrado/Yahye_Abdirahman?style=for-the-badge" alt="GitHub License">
-</p>## All Hacking Repasotory for Termux in one 
-_____________
+</p>
+
+## All Hacking Repasotory for Termux in one 
+
 
 ### this is termux scrip that dowloads all social media hacking tools , ip tracers , phishing and shells
 
 ## [+]INSTALL
 
 ```
-apt update && apt upgrade -y
-bash yahye.sh
+
+apt update && apt upgrade -y && apt install bash git -y && git clone https://github.com/fikrado/Yahye_Abdirahman && cd Yahye_Abdirahman && bash yahye.sh
 ```
