@@ -86,11 +86,15 @@ cd $HOME
 apt install wget bash python python2 curl mpv figlet -y
 pip install lolcat 
 pip2 install requests mechanize
+pkg in x11-repo -y
+pkg install mpv -y
+pkg install figlet -y
 
 figlet HACKING_TOOLS | lolcat 
 git clone https://github.com/fikrado/fikrado.py && git clone https://github.com/fikrado/qurxin && git clone https://github.com/fikrado/ip 
 git clone https://github.com/fikrado/JOKER-burtal-force && git clone https://github.com/fikrado/fikrado.txt && git clone https://github.com/d3L3t3dOn3/Malicious
 git clone https://github.com/sqlmapproject/sqlmap.git
+git clone https://github.com/fikrado/instagram-brutalforce-tool
 clear
 
 figlet Kali_tools | lolcat 
