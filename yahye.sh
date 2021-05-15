@@ -27,7 +27,7 @@ echo "$cyan                ********** "
 echo "$green              <~(TIKTOK- Fikrado)~>"
 echo " "
 echo "$yellow                +++++++++++++~ "
-sleep 3.50
+sleep 5
 echo " "
 echo  $p 'Please Wait ===+['$b'./                   '$p']\'
 sleep 0.4
